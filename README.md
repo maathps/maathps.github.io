@@ -3,9 +3,24 @@
 Matheus Costa, 18ao
 Aluno preguiçoso
 
-# Contato
+# Contatos
+- Twitter
+- Instagram
+- Facebook
+
+1. Email
+2. Linkedin
+3. Lattes
+
 ## Jogos
+
+*Dracul*
+_Underwater_
+`HybridChild`
+
 ### Artes
+
+[MATHEUSCOSTAFOTOS](instagram.com/matheuscostafotos)
 
 ### Markdown
 
