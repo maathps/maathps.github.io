@@ -3,6 +3,10 @@
 Matheus Costa, 18ao
 Aluno preguiçoso
 
+#Contato
+##Jogos
+###Artes
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
