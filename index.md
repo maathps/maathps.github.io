@@ -32,7 +32,7 @@ _Underwater_
 [![imagem](https://github.com/maathps/maathps.github.io/blob/master/dracul%202.png)](maathps.github.io/dracul)
 
 5. Imagem que é link avançado e que abre em uma nova guia
-<a href="https://www.instagram.com/p/Bq8Mg--HeCH/"> ![imagem2](https://www.instagram.com/p/Bq8Mg--HeCH/) </a>
+<a href="https://www.instagram.com/p/Bq8Mg--HeCH/"> ![imagem2](https://cdn2.iconfinder.com/data/icons/instagram-new/512/instagram-logo-color-512.png) </a>
 
 [MATHEUSCOSTAFOTOS](https://www.instagram.com/matheuscostafotos)
 
