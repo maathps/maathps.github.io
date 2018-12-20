@@ -26,10 +26,10 @@ _Underwater_
 ![nyan cat](https://www.dailydot.com/wp-content/uploads/ca4/63/e6b345906552524c733901c654f9e966.jpg)
 
 3. Imagem do repositório
-![dracul](dracul 1.png)
+![dracul](https://github.com/maathps/maathps.github.io/blob/master/dracul%201.png)
 
 4. Imagem que é link
-[![imagem](dracul 2.png)](maathps.github.io/dracul)
+[![imagem](https://github.com/maathps/maathps.github.io/blob/master/dracul%202.png)](maathps.github.io/dracul)
 
 [MATHEUSCOSTAFOTOS](https://www.instagram.com/matheuscostafotos)
 
