@@ -8,7 +8,7 @@
 #### Dracul é um jogo onde o vampirinho Dracul deve evitar a luz do sol e estacas para chegar ao próximo nível! Veja até onde consegue chegar nessa aventura!
 
 ## _**HybridChild (protótipo)**_
-<a href="https://www.maathps.github.io/hybidchild-prototype" target="_blank"> ![HybridCHild Protótipo](hcp.png) </a>
+<a href="https://www.maathps.github.io/hybidchild-prototype" target="_blank"> ![HybridCHild Protótipo](hcprot.png) </a>
 #### Protótipo do jogo HybridChild, incluindo as principais ideias do jogo final.
 
 ## _**HybridChild**_
