@@ -5,7 +5,7 @@
 #### Dracul é um jogo onde o vampirinho Dracul deve evitar a luz do sol e estacas para chegar ao próximo nível! Veja até onde consegue chegar nessa aventura!
 <br>
 ## _**HybridChild (protótipo)**_
-<a href="https://maathps.github.io/hybidchild-prototype" target="_blank"> ![HybridCHild Protótipo](hcprot.png) </a>
+<a href="https://maathps.github.io/hybridchild-prototype" target="_blank"> ![HybridCHild Protótipo](hcprot.png) </a>
 #### Protótipo do jogo HybridChild, incluindo as principais ideias do jogo final.
 <br>
 ## _**HybridChild**_
@@ -38,4 +38,4 @@ Artes gráficas do jogo [Larissa e Os Alimentos](https://raixasantos.github.io/L
 
 ## **Concurso Adele de Oliveira 2018**
 Poesia que levou a segunda colocação na categoria Ensino Médio, no prêmio Adele de Oliveira, em Ceará Mirim/RN.
-<a href="https://maathps.blogspot.com/2018/05/amar.html" target="_blank"> ![Amar](poesia.png) </a>
+<a href="https://maathps.blogspot.com/2018/05/amar.html" target="_blank"> ![Amar](amar.png) </a>
