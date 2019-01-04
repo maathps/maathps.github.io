@@ -18,6 +18,6 @@
 
 # **ATIVIDADES RECENTES**
 ## _**Larissa e os Alimentos**_
-###Larissa e Os Alimentos é um jogo desenvolvido em conjunto com a turma inteira de Jogos 3M, para a disciplina de Projeto Integrador.
+### Larissa e Os Alimentos é um jogo desenvolvido em conjunto com a turma inteira de Jogos 3M, para a disciplina de Projeto Integrador.
 <a href="https://raixasantos.github.io/LARISSAEOSALIMENTOS" target="_blank"> ![Larissa e os Alimentos](larissa.png) </a>
 #### Larissa e Os Alimentos, um jogo onde você aprende mais sobre alimentação saudável, vitaminas essenciais para o seu corpo e muito mais!
