@@ -23,18 +23,21 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        <p class="view"><a href="{{ https://github.com/maathps/maathps.github.io }}">Veja meu projeto no GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">Veja meu repositório no GitHub.</a></p>
+        <p class="view"><a href="{{ https://github.com/maathps/maathps.github.io }}">Veja meu projeto no GitHub</a></p>
         {% endif %}
 
         {% if site.show_downloads %}
         <ul class="downloads">
-          <li><a href="{{ https://www.instagram.com/maathps }}">Ver no <strong>Instagram</strong></a></li>
-          <li><a href="{{ mailto:maathps@outlook.com }}">Enviar <strong>Email</strong></a></li>
-          <li><a href="{{ tel:+5584994626746 }}">Contato via <strong>Telefone</strong></a></li>
+          <a href="https://www.instagram.com/maathps" target="_blank">Ver no <strong>Instagram</strong></a></li>
+          <a href="mailto:maathps@outlook.com" target="_blank">Enviar <strong>Email</strong></a></li>
+          <a href="tel:+5584994626746" target="_blank">Contato via <strong>Telefone</strong></a></li>
+		  
+		  <a href="https://www.instagram.com/" target="_blank">
+		  <a href="https://www.instagram.com/" target="_blank">
         </ul>
         {% endif %}
       </header>
@@ -45,9 +48,9 @@
       </section>
       <footer>
         {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <p>Projeto por <a href="{{ https://github.com/maathps/maathps.github.io }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Hospedado no GitHub pages &mdash; Tema por <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
