@@ -23,8 +23,8 @@
 <br>
 # **Artes**
 <br>
-## Larissa e Os Alimentos
-Artes gráficas do jogo (https://raixasantos.github.io/LARISSAEOSALIMENTOS)[Larissa e Os Alimentos].
+## _**Larissa e Os Alimentos**_
+Artes gráficas do jogo [Larissa e Os Alimentos](https://raixasantos.github.io/LARISSAEOSALIMENTOS).
 <br>
 ### Prédio Anexo do IFCM
 ![Anexo](cantina.png)
