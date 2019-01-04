@@ -18,5 +18,5 @@
 
 # **ATIVIDADES RECENTES**
 ## Larissa e os Alimentos
-<a href="https://https://raixasantos.github.io/LARISSAEOSALIMENTOS" target="_blank"> ![Larissa e os Alimentos](inserir imagem) </a>
+<a href="https://https://raixasantos.github.io/LARISSAEOSALIMENTOS" target="_blank"> ![Larissa e os Alimentos](larissa.png) </a>
 ### Larissa e Os Alimentos, um jogo onde você aprende mais sobre alimentação saudável, vitaminas essenciais para o seu corpo e muito mais!
