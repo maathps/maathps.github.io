@@ -25,7 +25,7 @@
 <br>
 ## _**Larissa e Os Alimentos**_
 Artes gráficas do jogo [Larissa e Os Alimentos](https://raixasantos.github.io/LARISSAEOSALIMENTOS).
-<br><br>
+<br>
 ### Prédio Anexo do IFCM
 ![Anexo](cantina.png)
 <br>
@@ -34,3 +34,8 @@ Artes gráficas do jogo [Larissa e Os Alimentos](https://raixasantos.github.io/L
 <br>
 ### Prédio Principal
 ![Prédio Principal](principal.png)
+<br><br>
+
+## **Concurso Adele de Oliveira 2018**
+Poesia que levou a segunda colocação na categoria Ensino Médio, no prêmio Adele de Oliveira, em Ceará Mirim/RN.
+<a href="https://maathps.blogspot.com/2018/05/amar.html" target="_blank"> ![Amar](poesia.png) </a>
