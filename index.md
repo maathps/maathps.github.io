@@ -20,3 +20,17 @@
 <a href="https://raixasantos.github.io/LARISSAEOSALIMENTOS" target="_blank"> ![Larissa e os Alimentos](larissa.png) </a>
 #### Larissa e Os Alimentos, um jogo onde você aprende mais sobre alimentação saudável, vitaminas essenciais para o seu corpo e muito mais!
 <br>
+<br>
+# **Artes**
+<br>
+## Larissa e Os Alimentos
+Artes gráficas do jogo (https://raixasantos.github.io/LARISSAEOSALIMENTOS)[Larissa e Os Alimentos].
+<br>
+### Prédio Anexo do IFCM
+![Anexo](cantina.png)
+<br>
+### Vivência do IFCM
+![Vivência](vivencia.png)
+<br>
+### Prédio Principal
+![Prédio Principal](principal.png)
