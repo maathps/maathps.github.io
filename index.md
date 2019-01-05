@@ -41,4 +41,3 @@ Poesia que levou a segunda colocação na categoria Ensino Médio, no prêmio Ad
 <a href="https://maathps.blogspot.com/2018/05/amar.html" target="_blank"> ![Amar](amar.png) </a>
 <br><br>
 Veja meus projetos no [GitHub](https://github.com/maathps/)
-<br>
