@@ -24,7 +24,7 @@
 # **Artes**
 <br>
 ## _**Larissa e Os Alimentos**_
-Artes gráficas do jogo [Larissa e Os Alimentos](https://raixasantos.github.io/LARISSAEOSALIMENTOS).
+Artes gráficas do jogo <a href="https://raixasantos.github.io/LARISSAEOSALIMENTOS" target="_blank"> Larissa e Os Alimentos</a>.
 <br>
 ### Prédio Anexo do IFCM
 ![Anexo](cantina.png)
@@ -40,4 +40,4 @@ Artes gráficas do jogo [Larissa e Os Alimentos](https://raixasantos.github.io/L
 Poesia que levou a segunda colocação na categoria Ensino Médio, no prêmio Adele de Oliveira, em Ceará Mirim/RN.
 <a href="https://maathps.blogspot.com/2018/05/amar.html" target="_blank"> ![Amar](amar.png) </a>
 <br><br>
-Veja meus projetos no [GitHub](https://github.com/maathps/)
+Veja meus projetos no <a href="https://github.com/maathps/" target="_blank">GitHub</a>.
